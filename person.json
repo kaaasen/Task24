@@ -1,38 +1,46 @@
 {
   "firstname": "Kim",
   "lastname": "Aasen",
-  "birtdate": "",
-  "email":"",
+  "birtdate": "1234.12312",
+  "email":"df@fg.com",
   "address": [
     {
-      "city": "",
-      "country": ""
+      "city": "Testtown",
+      "country": "Norway"
     }
   ],
   "experience": [
     {
-      "employer": "",
-      "title": "",
-      "startdate": "",
-      "enddate": ""
+      "employer": "Microsoft",
+      "title": "Programmer",
+      "startdate": "2000",
+      "enddate": "2009"
+    },
+    {
+      "employer": "Google",
+      "title": "Boss",
+      "startdate": "2009",
+      "enddate": "2019"
     }
   ],
   "education": [
     {
-      "school": "",
-      "program": "",
-      "degree": "",
-      "startdate": "",
-      "graduated": ""
+      "school": "UiO",
+      "program": "Programming",
+      "degree": "Bachelor of Science",
+      "startdate": "1992",
+      "graduated": "1995"
     }
   ],
   "qualifications": [
-    {}
+    "Java",
+    "C",
+    "Python"
   ],
   "links": [
     {
-      "linkedin": "",
-      "github": ""
+      "linkedin": "linkedin.com",
+      "github": "github.com"
     }
   ]
 }
