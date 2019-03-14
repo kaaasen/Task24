@@ -5,3 +5,11 @@
 .cv-list p {
   margin: 0;
 }
+
+body {
+  background-image: url("../background/background_image.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
