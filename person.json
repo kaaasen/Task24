@@ -1,121 +1,108 @@
 {
-  "firstname": "Craig",
-  "lastname": "Marais",
-  "birtdate": "30.06.1985",
-  "email":"craig.marais@noroff.no",
+  "firstname": "Kim",
+  "lastname": "Aasen",
+  "birtdate": "18.02.1984",
+  "email":"kim.aasen@no.experis.no",
   "address": [
     {
-      "city": "Oslo",
+      "city": "Mjøndalen",
       "country": "Norway"
     }
   ],
   "experience": [
     {
-      "employer": "Noroff",
-      "title": "Lecturer",
-      "startdate": "2018",
+      "employer": "Experis",
+      "title": "Fullstack Java Programmer",
+      "startdate": "2019",
+      "enddate": "->"
+    },
+    {
+      "employer": "Securitas Oslo",
+      "title": "Security Officer (Stationary)",
+      "startdate": "2013",
       "enddate": "2019"
     },
     {
-      "employer": "Nelson Mandela Metropolitan University",
-      "title": "Project Supervisor",
-      "startdate": "2018",
-      "enddate": "2018"
+      "employer": "Securitas Oslo",
+      "title": "Security Officer (Emergency)",
+      "startdate": "2008",
+      "enddate": "2013"
     },
     {
-      "employer": "Nelson Mandela Metropolitan University",
-      "title": "Programmer",
-      "startdate": "2017",
-      "enddate": "2018"
+      "employer": "Øvre Eiker Municipality",
+      "title": "Helper Aid",
+      "startdate": "2009",
+      "enddate": "2010"
     },
     {
-      "employer": "Fuzzy Logic",
-      "title": "Programmer",
-      "startdate": "2016",
-      "enddate": "2016"
+      "employer": "Shop Employee",
+      "title": "Matvarehuset Ultra",
+      "startdate": "2007",
+      "enddate": "2008"
     },
     {
-      "employer": "Rhodes University",
-      "title": "Student Tutor",
-      "startdate": "2015",
-      "enddate": "2015"
+      "employer": "Shop Employee",
+      "title": "Lidl",
+      "startdate": "2005",
+      "enddate": "2006"
     },
     {
-      "employer": "Nelson Mandela Metropolitan University",
-      "title": "Student Assistant",
-      "startdate": "2012",
-      "enddate": "2012"
-    },
-    {
-      "employer": "Nelson Mandela Metropolitan University",
-      "title": "Student Assistant",
-      "startdate": "2011",
-      "enddate": "2011"
-    },
-    {
-      "employer": "Binary Thought",
-      "title": "Junior Programmer",
-      "startdate": "2010",
-      "enddate": "2011"
+      "employer": "Trelleborg Offshore",
+      "title": "Production Worker",
+      "startdate": "2002",
+      "enddate": "2003"
     }
   ],
   "education": [
     {
-      "school": "Nelson Mandela Metropolitan University",
-      "program": "",
-      "degree": "Doctor of Philosophy (PhD)",
-      "startdate": "2017",
-      "graduated": "2020"
+      "school": "University of Oslo",
+      "program": "Informatics: Programming and Network",
+      "degree": "Bachelor of Science",
+      "startdate": "2014",
+      "graduated": "2017"
+    },
+    {
+      "school": "Høgskolen i Telemark, Notodden",
+      "program": "Teacher",
+      "degree": "",
+      "startdate": "2006",
+      "graduated": "2007"
     },
     {
       "school": "Nelson Mandela Metropolitan University",
-      "program": "Information Technology",
-      "degree": "Master's Degree",
-      "startdate": "2012",
-      "graduated": "2013"
-    },
-    {
-      "school": "Nelson Mandela Metropolitan University",
-      "program": "Information Technology",
-      "degree": "Bachelor's Degree",
-      "startdate": "2011",
-      "graduated": "2011"
-    },
-    {
-      "school": "Nelson Mandela Metropolitan University",
-      "program": "Information Technology",
-      "degree": "National Diploma",
-      "startdate": "2008",
-      "graduated": "2010"
+      "program": "Teacher",
+      "degree": "",
+      "startdate": "2004",
+      "graduated": "2005"
     }
   ],
   "qualifications": [
-    "Unity3D",
+    "Testing",
     "Java",
     "JavaScript",
     "Arduino",
-    "Visual Studio",
-    "ASP.NET",
+    "Information Security",
+    "REST",
     "CSS",
     "HTML",
     "SQL",
-    "PHP",
+    "React",
     "Linux",
     "Python",
     "C",
-    "C#",
-    "C++",
-    "Photography",
+    "Spring",
+    "Maven",
+    "Gradle",
     "Computer Science",
-    "Android Development",
-    "Data analysis",
-    "Web design",
-    "AI"
+    "JUnit",
+    "Vue",
+    "Node",
+    "Heroku"
   ],
   "links": [
     {
-      "linkedin": "https://www.linkedin.com/in/craig-marais-47b42a33/",
-      "github": "https://github.com/muskatel"
+      "linkedin": "https://www.linkedin.com/in/kaaasen/",
+      "github": "https://github.com/kaaasen"
     }
   ]
 }
