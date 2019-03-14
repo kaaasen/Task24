@@ -1,11 +1,12 @@
 {
   "firstname": "",
-  "lastname": "Aasen",
-  "birtdate": "18.02.1984",
+  "lastname": "",
+  "birtdate": "",
+  "email":"",
   "address": [
     {
-      "city": "Mjøndalen",
-      "country": "Norway"
+      "city": "",
+      "country": ""
     }
   ],
   "experience": [
@@ -27,5 +28,11 @@
   ],
   "qualifications": [
     {}
+  ],
+  "links": [
+    {
+      "linkedin": "",
+      "github": ""
+    }
   ]
 }
