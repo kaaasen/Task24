@@ -1,24 +1,31 @@
-var person = {
-                "firstname":"",
-                "lastname":"Aasen",
-                "birtdate":"18.02.1984",
-                "address": [{
-                  "city":"Mjøndalen",
-                  "country":"Norway"
-                }],
-                "experience": [{
-                  "employer":"",
-                  "title":"",
-                  "startdate":"",
-                  "enddate":""
-                }],
-                "education": [{
-                  "school":"",
-                  "program":"",
-                  "degree":"",
-                  "startdate":"",
-                  "graduated":""
-                }],
-                "qualifications": [{
-                }],
-              };
+{
+  "firstname": "",
+  "lastname": "Aasen",
+  "birtdate": "18.02.1984",
+  "address": [
+    {
+      "city": "Mjøndalen",
+      "country": "Norway"
+    }
+  ],
+  "experience": [
+    {
+      "employer": "",
+      "title": "",
+      "startdate": "",
+      "enddate": ""
+    }
+  ],
+  "education": [
+    {
+      "school": "",
+      "program": "",
+      "degree": "",
+      "startdate": "",
+      "graduated": ""
+    }
+  ],
+  "qualifications": [
+    {}
+  ]
+}
