@@ -9,7 +9,6 @@ const rawData = fs.readFileSync('person.json');
 
 
 const indexRouter = require('./routes/index');
-const usersRouter = require('./routes/users');
 
 const app = express();
 
