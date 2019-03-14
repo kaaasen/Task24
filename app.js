@@ -8,6 +8,7 @@ const fs = require('fs');
 const rawData = fs.readFileSync('person.json');
 
 const indexRouter = require('./routes/index');
+const cvRouter = require('./routes/cv');
 
 const app = express();
 
@@ -23,9 +24,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 
-app.get('/cv', (req, res) => {
-  res.sendFile(path.join(__dirname + '/cv.html'))
-});
+app.use('/cv', cvRouter);
 
 app.get("/data", (req, res) => {
   res.json(JSON.parse(rawData));
