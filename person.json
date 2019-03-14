@@ -2,45 +2,120 @@
   "firstname": "Craig",
   "lastname": "Marais",
   "birtdate": "30.06.1985",
-  "email":"df@fg.com",
+  "email":"craig.marais@noroff.no",
   "address": [
     {
-      "city": "Testtown",
+      "city": "Oslo",
       "country": "Norway"
     }
   ],
   "experience": [
     {
-      "employer": "Microsoft",
-      "title": "Programmer",
-      "startdate": "2000",
-      "enddate": "2009"
+      "employer": "Noroff",
+      "title": "Lecturer",
+      "startdate": "2018",
+      "enddate": "2019"
     },
     {
-      "employer": "Google",
-      "title": "Boss",
-      "startdate": "2009",
-      "enddate": "2019"
+      "employer": "Nelson Mandela Metropolitan University",
+      "title": "Project Supervisor",
+      "startdate": "2018",
+      "enddate": "2018"
+    },
+    {
+      "employer": "Nelson Mandela Metropolitan University",
+      "title": "Programmer",
+      "startdate": "2017",
+      "enddate": "2018"
+    },
+    {
+      "employer": "Fuzzy Logic",
+      "title": "Programmer",
+      "startdate": "2016",
+      "enddate": "2016"
+    },
+    {
+      "employer": "Rhodes University",
+      "title": "Student Tutor",
+      "startdate": "2015",
+      "enddate": "2015"
+    },
+    {
+      "employer": "Nelson Mandela Metropolitan University",
+      "title": "Student Assistant",
+      "startdate": "2012",
+      "enddate": "2012"
+    },
+    {
+      "employer": "Nelson Mandela Metropolitan University",
+      "title": "Student Assistant",
+      "startdate": "2011",
+      "enddate": "2011"
+    },
+    {
+      "employer": "Binary Thought",
+      "title": "Junior Programmer",
+      "startdate": "2010",
+      "enddate": "2011"
     }
   ],
   "education": [
     {
-      "school": "UiO",
-      "program": "Programming",
-      "degree": "Bachelor of Science",
-      "startdate": "1992",
-      "graduated": "1995"
+      "school": "Nelson Mandela Metropolitan University",
+      "program": "",
+      "degree": "Doctor of Philosophy (PhD)",
+      "startdate": "2017",
+      "graduated": "2020"
+    },
+    {
+      "school": "Nelson Mandela Metropolitan University",
+      "program": "Information Technology",
+      "degree": "Master's Degree",
+      "startdate": "2012",
+      "graduated": "2013"
+    },
+    {
+      "school": "Nelson Mandela Metropolitan University",
+      "program": "Information Technology",
+      "degree": "Bachelor's Degree",
+      "startdate": "2011",
+      "graduated": "2011"
+    },
+    {
+      "school": "Nelson Mandela Metropolitan University",
+      "program": "Information Technology",
+      "degree": "National Diploma",
+      "startdate": "2008",
+      "graduated": "2010"
     }
   ],
   "qualifications": [
+    "Unity3D",
     "Java",
+    "JavaScript",
+    "Arduino",
+    "Visual Studio",
+    "ASP.NET",
+    "CSS",
+    "HTML",
+    "SQL",
+    "PHP",
+    "Linux",
+    "Python",
     "C",
-    "Python"
+    "C#",
+    "C++",
+    "Photography",
+    "Computer Science",
+    "Android Development",
+    "Data analysis",
+    "Web design",
+    "AI"
   ],
   "links": [
     {
-      "linkedin": "linkedin.com",
-      "github": "github.com"
+      "linkedin": "https://www.linkedin.com/in/craig-marais-47b42a33/",
+      "github": "https://github.com/muskatel"
     }
   ]
 }
